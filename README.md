@@ -5,8 +5,7 @@
 Your goal is to build a react native app that displays a list of restaurants for an inputted address. We will provide guidelines and feature requests below, but ultimately the design and functionality of your app is up to you. Keep in mind functionality and code quality is more important than asthetic design.
 
 ## 2. Instructions
-
-Please read through the rest of the requirements and additional info before working on your app.
+ read through the rest of the requirements and additional info before working on your app.
 
 You can refer to the [getting started guide](https://facebook.github.io/react-native/docs/getting-started) if you need help initilizing a new react native project. We would prefer if you did so **without** using Expo, however the choice is ultimately up to you.
 
